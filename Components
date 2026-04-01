@@ -1,1 +1,9 @@
-
+1 × NE555 timer IC (DIP-8)
+1 × CD4017 decade counter IC (DIP-16)
+10 × 5mm LEDs (any color)
+10 × 220Ω (or 330Ω) resistors → for LEDs
+1 × 1kΩ resistor → for NE555 timing
+1 × 10kΩ potentiometer (3-pin)
+1 × 10µF electrolytic capacitor
+1 × 0.01µF (10nF) ceramic capacitor
+1 × 2-pin screw terminal
